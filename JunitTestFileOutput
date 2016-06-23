@@ -1,0 +1,11 @@
+auth_endpoint_uri, java.lang.String, https://authserver/v1/auth
+aws_access_key, java.lang.String, AKIAJSF6XRIJNJTTTL3Q
+aws_account_id, java.lang.Integer, 12345678
+aws_region_id, com.amazonaws.regions.Regions, US_EAST_1
+aws_secret_key, java.lang.String, pmqnweEYvdiw7cvCdTOES48sOUvK1rGvvctBsgsa
+job_maxretry, java.lang.Integer, 4
+job_timeout, java.lang.Integer, 3600
+jpa_showsql, java.lang.Boolean, false
+score_factor, java.lang.Double, 2.4
+sns_broadcast_topic_name, java.lang.String, broadcast
+sns_broadcast_visibility_timeout, java.lang.Integer, 30
